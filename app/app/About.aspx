@@ -8,6 +8,6 @@
         About
     </h2>
     <p>
-        Put content here.
+        Aplicacion para el DEC!
     </p>
 </asp:Content>
